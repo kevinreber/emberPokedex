@@ -1,6 +1,6 @@
 # ember-pokedex
 
-This is a clone of my original [PokdeDex App]([https://github.com/kevinreber/PokeDex](https://github.com/kevinreber/PokeDex)) built using the Ember.js framework
+This is a clone of my original [PokdeDex App](https://github.com/kevinreber/PokeDex) built using the Ember.js framework
 
 ## Prerequisites
 
